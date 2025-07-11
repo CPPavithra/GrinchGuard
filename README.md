@@ -1,4 +1,4 @@
-# 🛡️ GrinchDefender AI™ — The Future of Web Security
+# 🛡️ GrinchGuard™ — The Future of Web Security
 
 > **Stop bots. Stop breaches. In real-time.** > A production-ready AI-powered firewall to defend e-commerce from Grinch bots, stolen credentials, and automated fraud.
 
@@ -17,7 +17,7 @@ We asked:
 
 ---
 
-## 💡 Our Solution — GrinchDefender AI™
+## 💡 Our Solution — GrinchGuard™
 
 An intelligent, autonomous, **real-time cybersecurity engine** built for defense, not detection.  
 It’s **not a dashboard. It’s not a simulation.** It’s **a product.**
@@ -140,7 +140,7 @@ npm run dev
   - ✅ Fully integrated UI, Slack alerts, logs, ML engine
   - ✅ Designed for production-grade deployment
 
-🏆 **Why GrinchDefender AI™ Stands Out**
+🏆 **Why GrinchGuard™ Stands Out**
 Most hackathon submissions show dashboards.
 
 We built a real, intelligent, autonomous cybersecurity system.
@@ -149,8 +149,10 @@ We fight back.
 
 👨‍💻 **Team AstroBugs**
 
-  - 🧠 Pavi — ML, Frontend, Fingerprinting, Security Logic
-  - *[Add more team members with roles if needed]*
+  - Pavithe — ML, Core integration logic, Security
+  - Nikhil- Frontend and UI  
+  - Ayush- Core Security Logic
+  - Dhruv- Testing 
 
 -----
 
@@ -159,7 +161,7 @@ We fight back.
 
 “This isn’t a simulation.
 
-This is GrinchDefender AI™ — and this is the future of web security.”
+This is GrinchGuard™ — and this is the future of web security.”
 
 ```
 ```
