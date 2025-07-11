@@ -1,4 +1,3 @@
-````markdown
 # 🛡️ GrinchDefender AI™ — The Future of Web Security
 
 > **Stop bots. Stop breaches. In real-time.** > A production-ready AI-powered firewall to defend e-commerce from Grinch bots, stolen credentials, and automated fraud.
